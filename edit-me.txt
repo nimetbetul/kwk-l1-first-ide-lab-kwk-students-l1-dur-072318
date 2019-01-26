@@ -1,1 +1,1 @@
-"Hogwarts!"
+print "Hogwarts!"
